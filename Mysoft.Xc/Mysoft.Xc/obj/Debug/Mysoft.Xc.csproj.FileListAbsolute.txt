@@ -1,0 +1,7 @@
+F:\A_集控项目\文件demo\Mysoft.Xc\Mysoft.Xc\bin\Debug\Mysoft.Xc.exe.config
+F:\A_集控项目\文件demo\Mysoft.Xc\Mysoft.Xc\bin\Debug\Mysoft.Xc.exe
+F:\A_集控项目\文件demo\Mysoft.Xc\Mysoft.Xc\bin\Debug\Mysoft.Xc.pdb
+F:\A_集控项目\文件demo\Mysoft.Xc\Mysoft.Xc\obj\Debug\Mysoft.Xc.csprojAssemblyReference.cache
+F:\A_集控项目\文件demo\Mysoft.Xc\Mysoft.Xc\obj\Debug\Mysoft.Xc.csproj.CoreCompileInputs.cache
+F:\A_集控项目\文件demo\Mysoft.Xc\Mysoft.Xc\obj\Debug\Mysoft.Xc.exe
+F:\A_集控项目\文件demo\Mysoft.Xc\Mysoft.Xc\obj\Debug\Mysoft.Xc.pdb
