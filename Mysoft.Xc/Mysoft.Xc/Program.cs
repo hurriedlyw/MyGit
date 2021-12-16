@@ -12,6 +12,8 @@ namespace Mysoft.Xc
 
     class Program
     {
+
+           
         static void Main(string[] args)
         {
             //演示前台、后台线程
@@ -32,6 +34,9 @@ namespace Mysoft.Xc
             //启动线程
             fThread.Start();
             //bThread.Start();
+
+
+            ///
         }
     }
 
